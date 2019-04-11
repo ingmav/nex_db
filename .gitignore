@@ -6,3 +6,5 @@ Homestead.json
 .env
 /public/.htaccess
 /config/databases.php
+/storage
+/.git
