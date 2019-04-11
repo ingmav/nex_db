@@ -8,3 +8,4 @@ Homestead.json
 /config/databases.php
 /storage
 /.git
+/config/databases.php
